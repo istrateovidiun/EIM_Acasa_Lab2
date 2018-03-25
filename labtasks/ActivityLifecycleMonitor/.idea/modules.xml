@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ActivityLifecycleMonitor.iml" filepath="$PROJECT_DIR$/ActivityLifecycleMonitor.iml" />
+      <module fileurl="file://D:\CTI\Anul_4\Sem_2\EIM\Laborator02\labtasks\ActivityLifecycleMonitor\ActivityLifecycleMonitor.iml" filepath="D:\CTI\Anul_4\Sem_2\EIM\Laborator02\labtasks\ActivityLifecycleMonitor\ActivityLifecycleMonitor.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://D:\CTI\Anul_4\Sem_2\EIM\Laborator02\labtasks\ActivityLifecycleMonitor\app\app.iml" filepath="D:\CTI\Anul_4\Sem_2\EIM\Laborator02\labtasks\ActivityLifecycleMonitor\app\app.iml" />
     </modules>
   </component>
 </project>
